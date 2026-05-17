@@ -24,18 +24,23 @@ export function Header({ onMenuOpen, menuOpen }: HeaderProps) {
     <header
       className={cn(
         "fixed top-0 left-0 right-0 z-50 transition-all duration-700 ease-luxury page-padding",
-        scrolled ? "py-4 backdrop-blur-md bg-bone/70" : "py-6 md:py-8"
+        scrolled
+          ? "py-4 backdrop-blur-md bg-bone/70"
+          : "py-8 md:py-10 lg:py-12"
       )}
     >
       <motion.div
         initial={{ opacity: 0, y: -12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
-        className="flex items-center justify-between"
+        className="flex min-h-[3.5rem] items-center justify-between gap-6 md:min-h-[4.5rem]"
       >
         <Link
           href="/"
-          className="font-serif text-xl tracking-tight text-charcoal md:text-2xl"
+          className={cn(
+            "header-logo font-serif text-charcoal",
+            scrolled && "header-logo--compact"
+          )}
           aria-label="M Bhar home"
         >
           M Bhar
@@ -69,14 +74,17 @@ export function Header({ onMenuOpen, menuOpen }: HeaderProps) {
           >
             <span
               className={cn(
-                "block h-px w-6 bg-charcoal transition-all duration-500 ease-luxury",
-                menuOpen && "translate-y-[3.5px] rotate-45 w-7"
+                "block h-px bg-charcoal transition-all duration-500 ease-luxury",
+                scrolled ? "w-8" : "w-10 md:w-12",
+                menuOpen && "translate-y-[4px] rotate-45 w-10 md:w-12"
               )}
             />
             <span
               className={cn(
-                "block h-px w-4 bg-charcoal transition-all duration-500 ease-luxury group-hover:w-6",
-                menuOpen && "-translate-y-[3.5px] -rotate-45 w-7"
+                "block h-px bg-charcoal transition-all duration-500 ease-luxury",
+                scrolled ? "w-6" : "w-8 md:w-10",
+                !menuOpen && "group-hover:w-10 md:group-hover:w-12",
+                menuOpen && "-translate-y-[4px] -rotate-45 w-10 md:w-12"
               )}
             />
           </button>

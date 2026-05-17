@@ -23,6 +23,10 @@ const config: Config = {
         sans: ["var(--font-dm-sans)", "system-ui", "sans-serif"],
       },
       fontSize: {
+        "display-hero": [
+          "clamp(3.25rem, 11vw, 10.5rem)",
+          { lineHeight: "0.9", letterSpacing: "-0.03em" },
+        ],
         "display-xl": ["clamp(3.5rem,8vw,7.5rem)", { lineHeight: "0.95", letterSpacing: "-0.02em" }],
         "display-lg": ["clamp(2.5rem,5vw,5rem)", { lineHeight: "1", letterSpacing: "-0.02em" }],
         "display-md": ["clamp(1.75rem,3vw,3rem)", { lineHeight: "1.1", letterSpacing: "-0.01em" }],

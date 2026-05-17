@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { FadeIn } from "@/components/motion/FadeIn";
+import { RotatingHeroWords } from "@/components/home/RotatingHeroWords";
 
 const slides = [
   {
@@ -59,13 +60,10 @@ export function Hero() {
           <p className="section-label mb-6 text-bone/50">M Bhar</p>
         </FadeIn>
         <FadeIn delay={0.7}>
-          <h1 className="max-w-4xl font-serif text-display-lg text-balance text-bone">
-            Hand made, women empowering and socially responsible Furniture and
-            objects
-          </h1>
+          <RotatingHeroWords />
         </FadeIn>
         <FadeIn delay={0.9}>
-          <p className="mt-8 max-w-lg font-sans text-sm leading-relaxed text-bone/60 md:text-base">
+          <p className="mt-10 max-w-xl font-sans text-base leading-relaxed text-bone/60 md:mt-12 md:max-w-2xl md:text-lg">
             Crafted by women artisans across the world — each piece supports fair
             livelihoods, ethical production, and enduring design for considered
             interiors.

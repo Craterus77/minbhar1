@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "mbhar-atelier",
+    "name": "M Bhar Atelier",
+    "studio": "M Bhar Atelier",
+    "origin": "International cooperatives",
+    "discipline": "Furniture & objects",
+    "bio": "Our in-house curation partners with women-led workshops worldwide — each piece is handmade, ethically produced, and selected for material honesty and timeless form.",
+    "image": "/product-images/collections_accent-chairs_products_decrescendo-tufted-armchair.webp"
+  },
+  {
+    "slug": "woven-collective",
+    "name": "Woven Collective",
+    "studio": "Woven Collective",
+    "origin": "Panama & Central America",
+    "discipline": "Rattan & natural fibre",
+    "bio": "Artisan groups specialising in rattan buffets, entertainment units, and woven storage — supporting fair trade and traditional craft techniques.",
+    "image": "/product-images/products_panama-4-door-rattan-buffet.jpg"
+  },
+  {
+    "slug": "timber-guild",
+    "name": "Timber Guild",
+    "studio": "Timber Guild",
+    "origin": "Global",
+    "discipline": "Case goods & dining",
+    "bio": "Small-batch makers of dining tables, sideboards, wardrobes, and display cabinets in solid timber and marble.",
+    "image": "/product-images/collections_dining-tables_products_arlene-dining-table.png"
+  }
+]

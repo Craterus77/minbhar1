@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "panama-living-suite",
+    "title": "Panama Living Suite",
+    "location": "Residential",
+    "type": "Residential",
+    "description": "Rattan buffet and entertainment unit paired with woven seating — a warm, tactile living sequence shaped by ethical craftsmanship.",
+    "image": "/product-images/products_panama-4-door-rattan-buffet.jpg"
+  },
+  {
+    "slug": "marble-dining-room",
+    "title": "Marble Dining Room",
+    "location": "Residential",
+    "type": "Residential",
+    "description": "Willa marble dining table with Monte Carlo chairs — material contrast and quiet luxury for daily gathering.",
+    "image": "/product-images/collections_dining-tables_products_willa-marble-dining-table-1.png"
+  },
+  {
+    "slug": "accent-lounge",
+    "title": "Accent Lounge",
+    "location": "Boutique hospitality",
+    "type": "Commercial",
+    "description": "Tufted armchairs and bentwood accent stools in a layered lounge — sculptural seating for considered public interiors.",
+    "image": "/product-images/collections_accent-chairs_products_decrescendo-tufted-armchair.webp"
+  }
+]

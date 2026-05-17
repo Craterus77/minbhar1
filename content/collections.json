@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "accent-chairs",
+    "title": "Accent Chairs",
+    "subtitle": "Handcrafted seating",
+    "description": "Sculptural armchairs and accent seating — hand-finished upholstery and frames made by women-led workshops.",
+    "image": "/product-images/collections_accent-chairs_products_aquino-faux-leather-armchair.webp",
+    "material": "Upholstery"
+  },
+  {
+    "slug": "dining-chairs",
+    "title": "Dining Chairs",
+    "subtitle": "Chairs & stools",
+    "description": "Dining chairs and handcrafted stools in timber, rattan, and woven materials — designed for gathering and daily use.",
+    "image": "/product-images/products_monte-carlo-dining-chair.webp",
+    "material": "Timber"
+  },
+  {
+    "slug": "dining-tables",
+    "title": "Dining Tables",
+    "subtitle": "Marble & solid surfaces",
+    "description": "Dining tables with stone, marble, and timber tops — anchoring pieces for residential and boutique hospitality spaces.",
+    "image": "/product-images/collections_dining-tables_products_willa-marble-dining-table-1.png",
+    "material": "Stone"
+  },
+  {
+    "slug": "storage",
+    "title": "Storage",
+    "subtitle": "Buffets, cabinets & wardrobes",
+    "description": "Sideboards, buffets, wardrobes, and case goods in rattan, timber, and mixed materials — ethical production with enduring form.",
+    "image": "/product-images/products_panama-4-door-rattan-buffet.jpg",
+    "material": "Rattan & timber"
+  },
+  {
+    "slug": "display-cabinet",
+    "title": "Display Cabinet",
+    "subtitle": "Curated display",
+    "description": "Display cabinets for objects, ceramics, and collected pieces — gallery-like presence for living and retail interiors.",
+    "image": "/product-images/collections_display-cabinet_products_marrion-display-cabinet.jpg",
+    "material": "Timber"
+  },
+  {
+    "slug": "side-tables",
+    "title": "Side Tables",
+    "subtitle": "Occasional tables",
+    "description": "Side and occasional tables with natural materials and quiet profiles — accents for lounge and bedroom suites.",
+    "image": "/product-images/collections_side-tables_products_tropical-side-table.jpg",
+    "material": "Mixed"
+  }
+]

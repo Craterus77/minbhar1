@@ -1,0 +1,211 @@
+[
+  {
+    "slug": "aquino-faux-leather-armchair",
+    "title": "Aquino Faux Leather Armchair",
+    "designer": "M Bhar Atelier",
+    "collection": "accent-chairs",
+    "material": "Faux leather, timber frame",
+    "origin": "Handmade",
+    "description": "A sculptural armchair with clean lines and supple upholstery — crafted by women artisans for residential lounges and boutique hospitality.",
+    "image": "/product-images/collections_accent-chairs_products_aquino-faux-leather-armchair.webp",
+    "featured": true
+  },
+  {
+    "slug": "decrescendo-tufted-armchair",
+    "title": "Decrescendo Tufted Armchair",
+    "designer": "M Bhar Atelier",
+    "collection": "accent-chairs",
+    "material": "Tufted upholstery, timber",
+    "origin": "Handmade",
+    "description": "Tufted accent chair with rhythmic detailing and a generous seat — a quiet statement piece for considered interiors.",
+    "image": "/product-images/collections_accent-chairs_products_decrescendo-tufted-armchair.webp",
+    "featured": true
+  },
+  {
+    "slug": "bentwood-butterfly-accent-stool",
+    "title": "Bentwood Butterfly Accent Stool",
+    "designer": "M Bhar Atelier",
+    "collection": "accent-chairs",
+    "material": "Bentwood",
+    "origin": "Handmade",
+    "description": "Butterfly-profile accent stool in steam-bent timber — versatile as seat or side surface beside a sofa or bed.",
+    "image": "/product-images/collections_top-rated_products_bentwood-butterfly-accent-stool.webp",
+    "featured": true
+  },
+  {
+    "slug": "monte-carlo-dining-chair",
+    "title": "Monte Carlo Dining Chair",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-chairs",
+    "material": "Timber, woven seat",
+    "origin": "Handmade",
+    "description": "Refined dining chair with woven seat and balanced proportions — suited to residential dining and gallery kitchens.",
+    "image": "/product-images/products_monte-carlo-dining-chair.webp",
+    "featured": true
+  },
+  {
+    "slug": "herner-tufted-side-chair",
+    "title": "Herner Tufted Side Chair",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-chairs",
+    "material": "Tufted upholstery, timber legs",
+    "origin": "Handmade",
+    "description": "Tufted side chair with architectural silhouette — ideal flanking a dining table or as standalone accent seating.",
+    "image": "/product-images/collections_dining-chairs_products_herner-tufted-side-chair.jpg",
+    "featured": false
+  },
+  {
+    "slug": "sunbury-beech-foldable-chair-set-of-2",
+    "title": "Sunbury Beech Foldable Chair — Set of 2",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-chairs",
+    "material": "Beech timber",
+    "origin": "Handmade",
+    "description": "Pair of foldable beech dining chairs — practical, warm-toned seating for flexible dining and entertaining.",
+    "image": "/product-images/collections_dining-chairs_products_sunbury-beech-foldable-chair-set-of-2.jpg",
+    "featured": false
+  },
+  {
+    "slug": "harlow-artistic-handcrafted-stool-set-of-2",
+    "title": "Harlow Handcrafted Stool — Set of 2",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-chairs",
+    "material": "Handcrafted timber",
+    "origin": "Handmade",
+    "description": "Set of two artistic handcrafted stools — sculptural forms for dining, entry, or bar-height compositions.",
+    "image": "/product-images/collections_dining-chairs_products_harlow-artistic-handcrafted-stool-set-of-2.jpg",
+    "featured": false
+  },
+  {
+    "slug": "arlene-dining-table",
+    "title": "Arlene Dining Table",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-tables",
+    "material": "Timber top, metal base",
+    "origin": "Handmade",
+    "description": "Dining table with generous surface and refined base — designed to anchor dining rooms with calm presence.",
+    "image": "/product-images/collections_dining-tables_products_arlene-dining-table.png",
+    "featured": true
+  },
+  {
+    "slug": "willa-marble-dining-table",
+    "title": "Willa Marble Dining Table",
+    "designer": "M Bhar Atelier",
+    "collection": "dining-tables",
+    "material": "Marble top, timber base",
+    "origin": "Handmade",
+    "description": "Marble-topped dining table with natural veining and substantial base — materiality at the heart of the room.",
+    "image": "/product-images/collections_dining-tables_products_willa-marble-dining-table-1.png",
+    "featured": true
+  },
+  {
+    "slug": "panama-4-door-rattan-buffet",
+    "title": "Panama 4-Door Rattan Buffet",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Rattan, timber",
+    "origin": "Handmade",
+    "description": "Four-door rattan buffet with woven panels and warm timber — storage with tactile, tropical character.",
+    "image": "/product-images/products_panama-4-door-rattan-buffet.jpg",
+    "featured": true
+  },
+  {
+    "slug": "panama-rattan-2-door-buffet",
+    "title": "Panama 2-Door Rattan Buffet",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Rattan, timber",
+    "origin": "Handmade",
+    "description": "Compact two-door rattan buffet for dining and living — ethically made with woven detail and solid joinery.",
+    "image": "/product-images/products_panama-rattan-2-door-buffet.jpg",
+    "featured": false
+  },
+  {
+    "slug": "panama-rattan-entertainment-unit",
+    "title": "Panama Rattan Entertainment Unit",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Rattan, timber",
+    "origin": "Handmade",
+    "description": "Low entertainment unit in rattan and timber — conceals media while maintaining an editorial, natural aesthetic.",
+    "image": "/product-images/products_panama-rattan-entertainment-unit.jpg",
+    "featured": false
+  },
+  {
+    "slug": "noelle-wood-sideboard",
+    "title": "Noelle Wood Sideboard",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Solid timber",
+    "origin": "Handmade",
+    "description": "Wood sideboard with clean fronts and generous storage — a permanent piece for dining and entry sequences.",
+    "image": "/product-images/collections_closet_products_noelle-wood-sideboard.jpg",
+    "featured": false
+  },
+  {
+    "slug": "alexis-modular-drawer",
+    "title": "Alexis Modular Drawer",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Timber, metal hardware",
+    "origin": "Handmade",
+    "description": "Modular drawer unit for flexible storage — stackable, adaptable, and finished by hand in small-batch production.",
+    "image": "/product-images/collections_closet_products_alexis-modular-drawer.png",
+    "featured": false
+  },
+  {
+    "slug": "hannah-5-drawer-chest",
+    "title": "Hannah 5-Drawer Chest",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Timber",
+    "origin": "Handmade",
+    "description": "Five-drawer chest with quiet proportions — bedroom storage crafted for longevity and daily ritual.",
+    "image": "/product-images/collections_chest-of-drawers_products_hannah-5-drawer-chest.webp",
+    "featured": false
+  },
+  {
+    "slug": "mandaguari-wardrobe",
+    "title": "Mandaguari Wardrobe",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Timber",
+    "origin": "Handmade",
+    "description": "Substantial wardrobe with architectural presence — generous hanging and shelving for residential suites.",
+    "image": "/product-images/freedom_mandaguari-wardrobe.jpg",
+    "featured": false
+  },
+  {
+    "slug": "tuxedo-tall-cabinet",
+    "title": "Tuxedo Tall Cabinet",
+    "designer": "M Bhar Atelier",
+    "collection": "storage",
+    "material": "Timber",
+    "origin": "Handmade",
+    "description": "Tall cabinet with vertical emphasis — display and storage for objects, books, and collected pieces.",
+    "image": "/product-images/products_tuxedo-tall-cabinet.jpg",
+    "featured": false
+  },
+  {
+    "slug": "marrion-display-cabinet",
+    "title": "Marrion Display Cabinet",
+    "designer": "M Bhar Atelier",
+    "collection": "display-cabinet",
+    "material": "Timber, glass",
+    "origin": "Handmade",
+    "description": "Display cabinet for curated objects and ceramics — gallery-like framing for living and retail interiors.",
+    "image": "/product-images/collections_display-cabinet_products_marrion-display-cabinet.jpg",
+    "featured": false
+  },
+  {
+    "slug": "tropical-side-table",
+    "title": "Tropical Side Table",
+    "designer": "M Bhar Atelier",
+    "collection": "side-tables",
+    "material": "Natural fibres, timber",
+    "origin": "Handmade",
+    "description": "Side table with tropical material palette — an accent beside seating with warm, tactile surfaces.",
+    "image": "/product-images/collections_side-tables_products_tropical-side-table.jpg",
+    "featured": false
+  }
+]

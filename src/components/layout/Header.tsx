@@ -38,7 +38,7 @@ export function Header({ onMenuOpen, menuOpen }: HeaderProps) {
         <Link
           href="/"
           className={cn(
-            "header-logo font-serif text-charcoal",
+            "header-logo text-charcoal",
             scrolled && "header-logo--compact"
           )}
           aria-label="M Bhar home"

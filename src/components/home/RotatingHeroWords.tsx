@@ -20,7 +20,7 @@ export function RotatingHeroWords() {
 
   return (
     <h1
-      className="hero-headline max-w-[min(100%,64rem)] font-serif text-bone md:max-w-[72rem] lg:max-w-[80rem]"
+      className="hero-headline max-w-[min(100%,64rem)] text-bone md:max-w-[72rem] lg:max-w-[80rem]"
       aria-live="polite"
     >
       <span className="sr-only">

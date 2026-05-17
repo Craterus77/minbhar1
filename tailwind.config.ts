@@ -21,6 +21,7 @@ const config: Config = {
       fontFamily: {
         serif: ["var(--font-cormorant)", "Georgia", "serif"],
         sans: ["var(--font-dm-sans)", "system-ui", "sans-serif"],
+        hero: ["var(--font-hero)"],
       },
       fontSize: {
         "display-hero": [

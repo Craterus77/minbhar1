@@ -41,7 +41,7 @@ export function NavOverlay({ open, onClose }: NavOverlayProps) {
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.6 }}
             >
-              <span className="font-serif text-2xl">M Bhar</span>
+              <span className="font-hero text-2xl">M Bhar</span>
               <button
                 type="button"
                 onClick={onClose}
